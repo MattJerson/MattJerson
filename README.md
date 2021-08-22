@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Matt Figueroa
+#### Programmer | Video Editor | Graphic Artist 
+![Programmer | Video Editor | Graphic Artist ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**MattJerson/MattJerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matt Figueroa from the Philippines and I do Java Programming, Video Editing, and Editing Images. I am still learning Java so that I can be good at it. I enjoy editing videos and images in Premiere Pro and Photoshop.
 
-Here are some ideas to get you started:
+Skills: Java / Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java, HTML, Python, C++ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MattJerson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MattJersonn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mattjersonn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MatttJerson)  
+
