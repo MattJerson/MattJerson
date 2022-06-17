@@ -4,7 +4,7 @@
 
 I'm Matt Figueroa from the Philippines and I do Programming, Video Editing, and Editing Images. I am still learning a lot of programming languages so that I can be good at it. I enjoy editing videos and images in Premiere Pro and Photoshop.
 
-Skills: Java / Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects 
+Skills: Java / Python / C/C++ / Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects 
 
 - 🌱 I’m currently learning Java, HTML, Python, C++ 
 
