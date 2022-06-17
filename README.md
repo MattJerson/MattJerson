@@ -1,6 +1,5 @@
 ### Hi there 👋, Matt Figueroa
 #### Programmer | Video Editor | Graphic Artist 
-![Programmer | Video Editor | Graphic Artist ]
 
 I'm Matt Figueroa from the Philippines and I do Programming, Video Editing, and Editing Images. I am still learning a lot of programming languages so that I can be good at it. I enjoy editing videos and images in Premiere Pro and Photoshop.
 
