@@ -1,12 +1,14 @@
-### Hi there 👋, Matt Figueroa
-#### Programmer | Video Editor | Graphic Artist 
+<h1 align="center">Hi 👋, I'm Matt Jerson Figueroa</h1>
+<h3 align="center">A passionate Frontend Developer from Philippines</h3>
 
-I'm Matt Figueroa from the Philippines and I do Programming, Video Editing, and Editing Images. I am still learning a lot of programming languages so that I can be good at it. I enjoy editing videos and images in Premiere Pro and Photoshop.
+- 👨‍💻 All of my projects are available at [https://portfolio-rho-brown-66.vercel.app/](https://portfolio-rho-brown-66.vercel.app/)
 
-Skills: Java / Python / C/C++ / Adobe Premiere Pro / Adobe Photoshop / Adobe After Effects 
+- 📫 How to reach me **mattjersonn@gmail.com**
 
-- I’m currently learning Java, HTML, Python, C++ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@matttjerson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@matttjerson" height="30" width="40" /></a>
+</p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MattJerson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MattJersonn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mattjersonn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MatttJerson)  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
